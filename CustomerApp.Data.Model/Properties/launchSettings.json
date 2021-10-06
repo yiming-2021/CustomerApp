@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "CustomerApp.Data.Model": {
+      "commandName": "Executable"
+    }
+  }
+}
