@@ -26,7 +26,7 @@ namespace CustomerApp.Data.Repository
                     }
                 }
                 cmd.Connection = connection;
-                int r = cmd.ExecuteNonQuery(); //call this method to insert, update, delete
+                int r = cmd.ExecuteNonQuery(); 
 
                 return r;
             }
